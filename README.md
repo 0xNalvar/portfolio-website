@@ -36,4 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # Porftolio-website
 My personal portolio website
->>>>>>> f3d14e754c6d5a72f4024f54c3672ffc84f78bb0
+
